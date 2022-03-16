@@ -1,3 +1,7 @@
+name: Test of github actions demo
+
+on: [push]
+
 jobs:
   build:
     runs-on: ubuntu-latest
